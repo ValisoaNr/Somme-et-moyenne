@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-float main ()
+int main ()
 {
 	float a , b , s , m ; //declaration des variables
 	
